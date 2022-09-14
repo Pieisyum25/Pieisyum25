@@ -1,7 +1,7 @@
 # Welcome to my GitHub! :)
 ---
 
-### Hi, I'm John, and I love making games, fun little programs, and algorithms that do wild things.  
+### Hi, I'm John, and I love making apps, games, fun little programs, and algorithms that do wild things.  
 Feel free to check out and run my projects as they're all made for learning; my learning, and yours too if you like!  
 I have projects and experience in Java, Python, C, C++, HTML, CSS, JavaScript, React, React Native, Kotlin (Android Studio), and GDScript (Godot Game Engine).
 
@@ -9,8 +9,8 @@ Look around and have fun!
 
 ### Highlights:
 - Deadlined, a task management app built in React Native, repo: https://github.com/Pieisyum25/Deadlined
-- Sudoku Generator/Solver/Player, repo: https://github.com/Pieisyum25/Sudoku, access it here: https://pieisyum25.itch.io/sudoku-generator-and-solver
-- Zodiaque, an automatically updating horoscope for Android, repo: https://github.com/Pieisyum25/zodiaque
+- A Sudoku Generator/Solver/Player built in Godot, repo: https://github.com/Pieisyum25/Sudoku, access it here: https://pieisyum25.itch.io/sudoku-generator-and-solver
+- Zodiaque, an automatically updating horoscope app built in Android Studio, repo: https://github.com/Pieisyum25/zodiaque
 - JavaScript practice with autonomous agents, repo: https://github.com/Pieisyum25/autonomous-agents, access it here: https://pieisyum25.github.io/
 - Create Camp Project (Thriftr), repo: https://github.com/Mikelabu/StickyNotes, access it here: https://thrift-r.herokuapp.com/
 
