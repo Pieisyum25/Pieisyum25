@@ -8,6 +8,7 @@ I have projects and experience in Java, Python, C, C++, HTML, CSS, JavaScript, R
 Look around and have fun!
 
 ### Highlights:
+- Zodiaque (Flutter), a social astrology app built in Flutter, repo: https://github.com/Pieisyum25/zodiaque-flutter
 - Deadlined, a task management app built in React Native, repo: https://github.com/Pieisyum25/Deadlined
 - A Sudoku Generator/Solver/Player built in Godot, repo: https://github.com/Pieisyum25/Sudoku, access it here: https://pieisyum25.itch.io/sudoku-generator-and-solver
 - Zodiaque, an automatically updating horoscope app built in Android Studio, repo: https://github.com/Pieisyum25/zodiaque
